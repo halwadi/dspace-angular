@@ -2,15 +2,15 @@
 
   // "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
   // TODO New key - Add a translation
-  "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
+  "401.help": "أنت غير مصرح لك للوصول لهذه الصفحة، اضغط على الزر أدناه للرجوع للصفحة الرئيسية",
 
   // "401.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "401.link.home-page": "Take me to the home page",
+  "401.link.home-page": "خذني إلى الصفحة الرئيسية",
 
   // "401.unauthorized": "unauthorized",
   // TODO New key - Add a translation
-  "401.unauthorized": "unauthorized",
+  "401.unauthorized": "غير مصرح",
 
 
 
@@ -66,7 +66,7 @@
 
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.failure.head": "Failure",
+  "admin.registries.bitstream-formats.create.failure.head": "فشل",
 
   // "admin.registries.bitstream-formats.create.head": "Create Bitstream format",
   // TODO New key - Add a translation
@@ -82,7 +82,7 @@
 
   // "admin.registries.bitstream-formats.create.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.success.head": "Success",
+  "admin.registries.bitstream-formats.create.success.head": "نجاح",
 
   // "admin.registries.bitstream-formats.delete.failure.amount": "Failed to remove {{ amount }} format(s)",
   // TODO New key - Add a translation
@@ -90,7 +90,7 @@
 
   // "admin.registries.bitstream-formats.delete.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.failure.head": "Failure",
+  "admin.registries.bitstream-formats.delete.failure.head": "فشل",
 
   // "admin.registries.bitstream-formats.delete.success.amount": "Successfully removed {{ amount }} format(s)",
   // TODO New key - Add a translation
@@ -98,7 +98,7 @@
 
   // "admin.registries.bitstream-formats.delete.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.delete.success.head": "Success",
+  "admin.registries.bitstream-formats.delete.success.head": "نجاح",
 
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
   // TODO New key - Add a translation
@@ -114,7 +114,7 @@
 
   // "admin.registries.bitstream-formats.edit.description.label": "Description",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.description.label": "Description",
+  "admin.registries.bitstream-formats.edit.description.label": "الوصف",
 
   // "admin.registries.bitstream-formats.edit.extensions.hint": "Extensions are file extensions that are used to automatically identify the format of uploaded files. You can enter several extensions for each format.",
   // TODO New key - Add a translation
@@ -122,7 +122,7 @@
 
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
+  "admin.registries.bitstream-formats.edit.extensions.label": "صيغ الملفات",
 
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
   // TODO New key - Add a translation
@@ -134,7 +134,7 @@
 
   // "admin.registries.bitstream-formats.edit.failure.head": "Failure",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.failure.head": "Failure",
+  "admin.registries.bitstream-formats.edit.failure.head": "فشل",
 
   // "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
   // TODO New key - Add a translation
@@ -146,7 +146,7 @@
 
   // "admin.registries.bitstream-formats.edit.internal.label": "Internal",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.internal.label": "Internal",
+  "admin.registries.bitstream-formats.edit.internal.label": "داخلي",
 
   // "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
   // TODO New key - Add a translation
@@ -162,7 +162,7 @@
 
   // "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
+  "admin.registries.bitstream-formats.edit.shortDescription.label": "الاسم",
 
   // "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
   // TODO New key - Add a translation
@@ -170,7 +170,7 @@
 
   // "admin.registries.bitstream-formats.edit.success.head": "Success",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.success.head": "Success",
+  "admin.registries.bitstream-formats.edit.success.head": "نجاح",
 
   // "admin.registries.bitstream-formats.edit.supportLevel.hint": "The level of support your institution pledges for this format.",
   // TODO New key - Add a translation
@@ -190,15 +190,15 @@
 
   // "admin.registries.bitstream-formats.table.delete": "Delete selected",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.delete": "Delete selected",
+  "admin.registries.bitstream-formats.table.delete": "حذف المحدد",
 
   // "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.deselect-all": "Deselect all",
+  "admin.registries.bitstream-formats.table.deselect-all": "إلغاء تحديد الكل",
 
   // "admin.registries.bitstream-formats.table.internal": "internal",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.internal": "internal",
+  "admin.registries.bitstream-formats.table.internal": "داخلي",
 
   // "admin.registries.bitstream-formats.table.mimetype": "MIME Type",
   // TODO New key - Add a translation
@@ -206,13 +206,13 @@
 
   // "admin.registries.bitstream-formats.table.name": "Name",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.name": "Name",
+  "admin.registries.bitstream-formats.table.name": "الاسم",
   // TODO New key - Add a translation
   "admin.registries.bitstream-formats.table.id": "ID",
 
   // "admin.registries.bitstream-formats.table.return": "Return",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.table.return": "Return",
+  "admin.registries.bitstream-formats.table.return": "عودة",
 
   // "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Known",
   // TODO New key - Add a translation
